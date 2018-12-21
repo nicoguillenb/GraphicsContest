@@ -1,7 +1,14 @@
 # GraphicsContest
 # Java Challenge
 #
-# This project was for the CS 106A Graphics Contest at Stanfor University.
+# The program name is "Psychedelic Karel." It was coded for the CS 106A 
+# Graphics Contest at Stanford University.
 #
-# It was selected as the winning project in Winter Quarter 2018.
+# The program uses Stanford University's Libraries and it consist 
+# in a representation of the "A Day In The Life" song by The Beatles, 
+# using the iconic Stanford CS Robot "Karel." The program imports a single 
+# Karel png file and it uses that file million of time to recreate the scene.
+#
+# The program was selected as the WINNER in Winter Quarter 2018 at Stanford
+# University.
 #
